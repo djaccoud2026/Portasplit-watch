@@ -1,35 +1,35 @@
 {
-  "last_checked": "2026-07-11T23:58:16.370379+00:00",
+  "last_checked": "2026-07-12T03:45:29.373592+00:00",
   "sites": {
     "Amazon.fr": {
       "url": "https://www.amazon.fr/dp/B0CY2YW8BT",
       "status": "unknown",
       "price": null,
-      "last_checked": "2026-07-11T23:58:16.370379+00:00"
+      "last_checked": "2026-07-12T03:45:29.373592+00:00"
     },
     "Leroy Merlin": {
       "url": "https://www.leroymerlin.fr/produits/climatiseur-split-mobile-reversible-portasplit-midea-par-optimea-93857579.html",
       "status": "blocked",
       "price": null,
-      "last_checked": "2026-07-11T23:58:16.370379+00:00"
+      "last_checked": "2026-07-12T03:45:29.373592+00:00"
     },
     "Boulanger": {
       "url": "https://www.boulanger.com/ref/1216685",
       "status": "error",
       "price": null,
-      "last_checked": "2026-07-11T23:58:16.370379+00:00"
+      "last_checked": "2026-07-12T03:45:29.373592+00:00"
     },
     "Darty": {
       "url": "https://www.darty.com/nav/achat/gros_electromenager/chauffage_climatisation/climatiseur/midea_mmcs-12hrn8-qrd0.html",
       "status": "blocked",
       "price": null,
-      "last_checked": "2026-07-11T23:58:16.370379+00:00"
+      "last_checked": "2026-07-12T03:45:29.373592+00:00"
     },
     "ManoMano": {
       "url": "https://www.manomano.fr/p/midea-climatiseur-split-mobile-reversible-froid-chaud-3500w12000btu-wifi-deshumidificateur-ventilateur-jusqua-40m2-kit-fenetre-inclus-83810402",
       "status": "blocked",
       "price": null,
-      "last_checked": "2026-07-11T23:58:16.370379+00:00"
+      "last_checked": "2026-07-12T03:45:29.373592+00:00"
     }
   }
 }
